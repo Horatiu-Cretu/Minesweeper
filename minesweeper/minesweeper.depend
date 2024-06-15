@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1673274564 source:d:\code blocks\facultate\minesweeper\horatiu_cretu_minesweeper_s11.c
+
+1673274472 source:d:\code blocks\facultate\minesweeper\cretu_horatiu_main_s11.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Horatiu_Cretu_minesweeper_s11.h"
+
+1672159727 d:\code blocks\facultate\minesweeper\horatiu_cretu_minesweeper_s11.h
+
